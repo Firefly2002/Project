@@ -100,8 +100,8 @@ ORDER BY
 limit 10
 ```
 Here's the results for top paying skills for Data science:
-![Top skills base on salary](/asset/top_skills_based_on_salary.png)
-Table of the average salary for the top 10 paying skills for data scientist
+![Top skills base on salary](/asset/table_skills_based_on_salary.png)
+Table of the average salary for the top 10 paying skills for data scientist.
 
 ## 5.Most Optimal Skills to Learn
 Combining insights from demand and salary data, this query aimed to pinpoint skills that are both in high demand and have high salaries, offering a strategic focus for skill development.
