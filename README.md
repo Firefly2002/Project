@@ -128,7 +128,7 @@ ORDER BY
 LIMIT 10
 ```
 ![Optimal skills for data scientist](/asset/table_optimal_skill.png)
-Table of the most optimal skills for data analyst sorted by salary
+Table of the most optimal skills for data scientist sorted by salary
 
 # What I Learned
 Over this journey, I've learned a great deal of SQL toolkit:
