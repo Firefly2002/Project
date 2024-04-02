@@ -1,0 +1,29 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../Downloads/sql/csv_files"
+		},
+		{
+			"path": "../Downloads/sql/sql_load"
+		}
+	],
+	"settings": {
+		"sqltools.connections": [
+			{
+				"previewLimit": 50,
+				"server": "localhost",
+				"port": 5432,
+				"driver": "PostgreSQL",
+				"name": "sql_course",
+				"database": "sql_course",
+				"username": "postgres"
+			}
+		],
+		"liveServer.settings.multiRootWorkspaceName": "Project",
+		"sqltools.disableChordKeybindings": true,
+		"sqltools.autoOpenSessionFiles": false
+	}
+}

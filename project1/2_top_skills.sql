@@ -13,7 +13,7 @@ FROM
 INNER JOIN job_postings_fact as job_postings ON job_postings.job_id = skills_to_job.job_id
 WHERE 
     job_postings.job_work_from_home = TRUE AND
-    job_title_short = 'Data Analyst'
+    job_title_short = 'Data Scientist'
 GROUP BY
     skill_id
 )
