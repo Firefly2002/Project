@@ -25,7 +25,7 @@ For my deep dive into the data scientist job market, I harnessed the power of se
 
 # The Analysis
 Each query for this project aimed at investigating specific aspects of the data scientist job market. Here’s how I approached each question:
-### 1. Top Paying Data Analyst Jobs
+### 1. Top Paying Data Scientist Jobs
 To identify the highest-paying roles, I filtered data scientist positions by average yearly salary and location, focusing on remote jobs. This query highlights the high paying opportunities in the field.
 ```sql
 SELECT
@@ -73,7 +73,7 @@ ORDER BY
     demand_count DESC
 limit 5
 ```
-Here's the breakdown of the most demanded skills for data analysts in 2023
+Here's the breakdown of the most demanded skills for data scientist in 2023
 
 **SQL and Python** emphasizing the need for strong foundational skills in data processing, analysis and visualising.
 Programming and Visualization Tools and Platform like r, aws, and tableau are essential, pointing towards the increasing importance of technical skills in data storytelling and decision support.
@@ -131,7 +131,7 @@ LIMIT 10
 Table of the most optimal skills for data analyst sorted by salary
 
 # What I Learned
-Over this journey, I've added a great deal of significant punch to my SQL toolkit:
+Over this journey, I've learned a great deal of SQL toolkit:
 
 Crafting Complex Query: You've mastered the art of sophisticated SQL, combining tables with ease and utilising WITH clauses for temp table tricks fit for a ninja.
 Data Aggregation: I became familiar with GROUP BY and used aggregate functions such as AVG() and COUNT() to make my sidekicks for data summarization.
